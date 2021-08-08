@@ -1,0 +1,41 @@
+{
+  "name": "npg-discord-xp",
+  "version": "1.0.0",
+  "description": "npg discord-xp packages with no error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wumpuspro/npg-discord-xp.git"
+  },
+  "author": "NPG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wumpuspro/npg-discord-xp/issues"
+  },
+  "homepage": "https://github.com/Wumpuspro/npg-discord-xp#readme",
+  "keywords": [
+    "discord",
+    "economy",
+    "discord.js",
+    "bot",
+    "bots",
+    "leveling",
+    "levels",
+    "discord-levels",
+    "discord-xp",
+    "xp",
+    "mongo",
+    "mongoose",
+    "mongodb",
+    "discord-economy",
+    "discord-eco",
+    "framework"
+  ],
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "mongoose": "^5.13.5"
+  }
+}
